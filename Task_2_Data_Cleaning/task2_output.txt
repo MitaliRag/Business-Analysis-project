@@ -1,0 +1,10 @@
+TASK 2: DATA CLEANING REPORT
+========================================
+Original rows and columns: (7043, 21)
+Duplicate rows removed: 0
+Final rows: 7043
+Final columns: 21
+Missing values remaining: 0
+
+Standardized column names:
+customerid, gender, seniorcitizen, partner, dependents, tenure, phoneservice, multiplelines, internetservice, onlinesecurity, onlinebackup, deviceprotection, techsupport, streamingtv, streamingmovies, contract, paperlessbilling, paymentmethod, monthlycharges, totalcharges, churn

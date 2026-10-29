@@ -1,0 +1,34 @@
+MEAN
+seniorcitizen        0.162147
+tenure              32.371149
+monthlycharges      64.761692
+totalcharges      2279.765853
+
+MEDIAN
+seniorcitizen        0.00
+tenure              29.00
+monthlycharges      70.35
+totalcharges      1394.55
+
+MODE
+customerid                0002-ORFBO
+gender                          Male
+seniorcitizen                    0.0
+partner                           No
+dependents                        No
+tenure                           1.0
+phoneservice                     Yes
+multiplelines                     No
+internetservice          Fiber optic
+onlinesecurity                    No
+onlinebackup                      No
+deviceprotection                  No
+techsupport                       No
+streamingtv                       No
+streamingmovies                   No
+contract              Month-to-month
+paperlessbilling                 Yes
+paymentmethod       Electronic check
+monthlycharges                 20.05
+totalcharges                    20.2
+churn                             No

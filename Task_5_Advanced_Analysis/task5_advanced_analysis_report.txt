@@ -1,0 +1,46 @@
+TASK 5: ADVANCED CUSTOMER CHURN ANALYSIS
+==================================================
+
+Churn by Tenure Group (percentage):
+churn            No    Yes
+tenure_group              
+0-12 Months   52.56  47.44
+13-36 Months  74.46  25.54
+37+ Months    88.07  11.93
+
+
+Churn by Gender (percentage):
+churn      No    Yes
+gender              
+Female  73.08  26.92
+Male    73.84  26.16
+
+
+Churn by Senior Citizen Status (percentage):
+churn             No    Yes
+seniorcitizen              
+0              76.39  23.61
+1              58.32  41.68
+
+
+Churn by Payment Method (percentage):
+churn                         No    Yes
+paymentmethod                          
+Bank transfer (automatic)  83.29  16.71
+Credit card (automatic)    84.76  15.24
+Electronic check           54.71  45.29
+Mailed check               80.89  19.11
+
+
+Churn by Contract Type (percentage):
+churn              No    Yes
+contract                    
+Month-to-month  57.29  42.71
+One year        88.73  11.27
+Two year        97.17   2.83
+
+
+Average Monthly Charges by Churn:
+churn
+No     61.27
+Yes    74.44
